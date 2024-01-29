@@ -23,3 +23,7 @@ Instructions and Documentation:
 
 The repository includes comprehensive documentation, code samples, and step-by-step instructions to help you assemble, program, and customize your parallel parking car.
 
+
+
+[Paper.pdf](https://github.com/Samahussien7/Auto-Parallel-Parking-Car/files/14084359/Paper.pdf)
+
