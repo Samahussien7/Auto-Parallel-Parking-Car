@@ -1,5 +1,5 @@
 # Auto-Parallel-Parking-Car
- Parallel Parking Car ,with mathematical localization code and detailed Paper about the project.
+ Parallel Parking Car code ,with mathematical localization code and detailed Paper about the project.
 
 ## Features:
 
